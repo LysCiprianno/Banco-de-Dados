@@ -7,3 +7,6 @@ Este diagrama ilustra a estrutura de um banco de dados para o sistema hospitalar
 
 ![Diagrama ER](https://github.com/user-attachments/assets/5ddbfc1c-c4a2-45e6-8d93-98a138234871)
 
+![Diagrama ER](https://github.com/user-attachments/assets/df4bdb3e-d1d5-48d3-85a6-c4da26c6449c)
+
+
